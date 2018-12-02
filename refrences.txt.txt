@@ -1,0 +1,25 @@
+1.how to use match in regex?
+link-https://docs.python.org/2/library/re.html
+
+2.How to Write and Match Regular Expressions  
+link-https://www.youtube.com/watch?v=K8L6KVGG-7o&t=132s
+
+3.check an email syntax is valid or not?
+link.1 https://www.scottbrady91.com/Email-Verification/Python-Email-Verification-Script
+     2 https://www.youtube.com/watch?v=K8L6KVGG-7o&t=132s
+4.how to check a file is empty python
+link https://stackoverflow.com/questions/2507808/python-check-whether-a-file-is-empty-or-not
+
+5.how to sort list of objects in python
+link=https://stackoverflow.com/questions/403421/how-to-sort-a-list-of-objects-based-on-an-attribute-of-the-objects
+
+5.files in python
+link http://www.pythonforbeginners.com/cheatsheet/python-file-handling
+
+6.How to Use Pickle to Save Objects and load objcets in Python
+ link https://www.thoughtco.com/using-pickle-to-save-objects-2813661
+
+7. Python how to make simple animated loading in python
+ link https://stackoverflow.com/questions/22029562/python-how-to-make-simple-animated-loading-while-process-is-running
+
+
